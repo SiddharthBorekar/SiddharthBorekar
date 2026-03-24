@@ -7,7 +7,7 @@
 <a href="https://leetcode.com/u/Siddharthborekar11/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
 </a>
-<a href="https://www.chess.com/home" target="_blank">
+<a href="https://   w.ch  e  ss.c    om/home" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
 </a>
 </p>
