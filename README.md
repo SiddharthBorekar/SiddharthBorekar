@@ -12,8 +12,6 @@
 </a>
 </p>
 
-
-
 <br>
 
 <h2 align="center"> <img src="./imgs/title1.png" width="25"/> <em>About  me </em></h2>
