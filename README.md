@@ -12,13 +12,6 @@
 </a>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthBorekar&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000" />
-</p>
-
-<br/>
 
 <h2 align="center"> <img src="./imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
