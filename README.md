@@ -12,14 +12,10 @@
 </a>
 </p>
 
-<br>
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthBorekar&label=VISITORS&color=000000&style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=SiddharthBorekar&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000" />
 </p>
 
 <br/>
