@@ -14,6 +14,16 @@
 
 <br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiddharthBorekar&label=VISITORS&color=000000&style=for-the-badge&labelColor=000000" />
+</p>
+
+<br/>
+
 <h2 align="center"> <img src="./imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right"/>
